@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/home/home"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#1abc9c",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "今天吃啥"
+  },
+  "sitemapLocation": "sitemap.json"
+}
